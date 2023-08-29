@@ -1,0 +1,51 @@
+.blocDevis {
+    width: 375px;
+    height: 1200px;
+    background: linear-gradient(to bottom, #4E7B91, rgba(255, 255, 255, 0.69));
+    border-radius: 20px;
+}
+.barreLogo {
+    height: 75px;
+    background-color: #346077;
+    text-align: center;
+    border-radius: 20px 20px 0px 0px;
+}
+.logoJessica {
+    width: 80px;
+}
+.formulaire {
+    padding: 50px;
+    border-radius: 0px 0px 20px 20px;
+}
+.phraseTitreDevis {
+    color: white;
+    font-size: 23px;
+    font-family: 'Dancing Script', cursive;
+}
+label {
+    font-size: 19px;
+    font-weight: 400;
+}
+input {
+    width: 270px;
+    height: 30px;
+    margin-bottom: 50px;
+    border: 1px solid white;
+    border-radius: 20px;
+}
+.description {
+    height: 150px;
+}
+.boutonEnvoyer {
+    width: 275px;
+    background-color: #346077;
+    height: 40px;
+    color: white;
+    font-family: 'Dancing Script', cursive;
+    font-size: 25px;
+    cursor: pointer;
+}
+.boutonEnvoyer:hover {
+    height: 50px;
+    transition: 0.5s;
+}
