@@ -19,8 +19,9 @@
 }
 .phraseTitreDevis {
     color: white;
-    font-size: 23px;
+    font-size: 22px;
     font-family: 'Dancing Script', cursive;
+    margin: 0px 0px 20px 0px;
 }
 label {
     font-size: 19px;
@@ -29,7 +30,8 @@ label {
 input {
     width: 270px;
     height: 30px;
-    margin-bottom: 50px;
+    margin-bottom: 40px;
+    margin-top: 10px;
     border: 1px solid white;
     border-radius: 20px;
 }
@@ -48,4 +50,8 @@ input {
 .boutonEnvoyer:hover {
     height: 50px;
     transition: 0.5s;
+}
+.condition {
+    font-size: 19px;
+    font-weight: 400;
 }
